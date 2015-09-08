@@ -12,3 +12,4 @@ La version actuelle gère surtout le remplacement de baslises simple telles que 
 - Lisaison du chaque fichier html avec le fichier CSS, présent à la racine de l'arborescence
 - Liaison de chaque fichier (hors page d'accueil) à son fichier "parent"
 
+(A noter que ce générateur est créé pour répondre à un besoin précis et de fait ne se veut pas totalement généraliste)
