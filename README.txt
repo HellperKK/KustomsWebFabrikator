@@ -14,4 +14,5 @@ s'ajoute quelques fonctionalité (plutôt simples) implémentées. A savoir :
 - Lisaison du chaque fichier html avec le fichier CSS, présent à la racine de l'arborescence
 - Liaison de chaque fichier (hors page d'accueil) à son fichier "parent"
 
-(A noter que ce générateur est créé pour répondre à un besoin précis et de fait ne se veut pas totalement généraliste)
+A noter que ce générateur est créé pour répondre à un besoin précis et de fait ne se veut pas totalement généraliste. 
+Il faut lancer le fichier Main.rb.
