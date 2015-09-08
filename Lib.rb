@@ -16,7 +16,7 @@ def lienRetour(chemin)
 		if parent == "Input"
 			fichier = "index2.html"
 		else
-			fichier = "../Index.html"
+			fichier = "Index.html"
 		end
 		"<a href=\"#{fichier}\" class=\"retour\">Retour</a>"
 	end
@@ -75,3 +75,11 @@ def to_html(chemin)
 	#puts page
 	page
 end
+##Pour test
+=begin
+contenu = to_html("Index.txt")
+f = File.open("Test.html" ,'w')
+f.write(contenu)
+f.close
+=end
+#chemin = "Input/Articles/Articles - Copie/Index.txt"
