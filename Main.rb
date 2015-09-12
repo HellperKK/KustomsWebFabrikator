@@ -1,6 +1,6 @@
 # encoding: UTF-8
 require 'fileutils'
-require_relative 'lib'
+require_relative 'Lib'
 def creerDirectory(i)
 	parent = File.dirname(i)
 	unless File.exist?(i)
